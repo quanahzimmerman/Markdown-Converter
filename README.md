@@ -26,14 +26,14 @@ A simple macOS app to convert Markdown files to Word (.docx), PDF, and plain tex
 
 ### From Release (Recommended)
 
-Download the latest `.dmg` from the [Releases](https://github.com/quanahzimmerman/Markdown-to-Docx-converter/releases) page.
+Download the latest `.dmg` from the [Releases](https://github.com/quanahzimmerman/Markdown-Converter/releases) page.
 
 ### Build from Source
 
 ```bash
 # Clone the repo
-git clone https://github.com/quanahzimmerman/Markdown-to-Docx-converter.git
-cd Markdown-to-Docx-converter
+git clone https://github.com/quanahzimmerman/Markdown-Converter.git
+cd Markdown-Converter
 
 # Install dependencies
 npm install
