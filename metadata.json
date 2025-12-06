@@ -1,0 +1,5 @@
+{
+  "name": "Obsidian to Docx Converter",
+  "description": "A professional tool to convert Obsidian Markdown files into clean, formatted Word documents using Gemini AI.",
+  "requestFramePermissions": []
+}
